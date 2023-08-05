@@ -1,0 +1,15 @@
+#: templates/3-index.html:5 templates/4-index.html:5 templates/5-index.html:5
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+
+#: templates/3-index.html:8 templates/4-index.html:8 templates/5-index.html:8
+msgid "home_header"
+msgstr "Bonjour monde!"
+
+#: templates/5-index.html:10
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
+
+#: templates/index.html:14
+msgid "current_time_is"
+msgstr "Nous sommes le %(current_time)s."
